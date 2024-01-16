@@ -12,7 +12,6 @@
 
 Serverless application using S3, API Gateway, Lambda, Step Functions, SNS & SES.
 
-
 ### Architecture 
  ![image](https://github.com/Yvangelion/EmailReminderTool/assets/109707734/6ad97d66-3ba0-44a0-977c-88ed8bfa53c3)
 
