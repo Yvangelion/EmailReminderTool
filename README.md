@@ -2,11 +2,11 @@
 
 ## Stages
 
-STAGE 1 : Configure Simple Email service
-STAGE 2 : Add a email lambda function to use SES to send emails for the serverless application
-STAGE 3 : Implement and configure the state machine, the core of the application
-STAGE 4 : Implement the API Gateway, API and supporting lambda function
-STAGE 5 : Implement the static frontend application and test functionality
+1. **STAGE 1**: Configure Simple Email Service (SES)
+2. **STAGE 2**: Add an email Lambda function to use SES to send emails for the serverless application
+3. **STAGE 3**: Implement and configure the state machine, the core of the application
+4. **STAGE 4**: Implement the API Gateway, API, and supporting Lambda functions
+5. **STAGE 5**: Implement the static frontend application and test functionality
 
 ## Services
 
